@@ -10,5 +10,4 @@ public class SfgRestfulBreweryApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
